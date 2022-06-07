@@ -1,0 +1,6 @@
+framework module StringSDK {
+  umbrella header "StringSDK.h"
+
+  export *
+  module * { export * }
+}
